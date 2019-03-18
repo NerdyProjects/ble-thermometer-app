@@ -4094,17 +4094,19 @@ nativescript-vue-devtools@^1.0.0:
   integrity sha512-FbY1ty4IOVYsS+VC6vsmoVDc6UvDMJptOJXV/Y3yPy4T8rJx08w5DO0rJSL+htnz1MKUmGlSCy2j37BxGASjSw==
 
 nativescript-vue-template-compiler@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/nativescript-vue-template-compiler/-/nativescript-vue-template-compiler-2.1.0.tgz#18a7838c666680468048ea39f76631d5ac4e7c74"
-  integrity sha512-jR/m+1fDleQTuwQbIjzY2rwfqju7zijWT61Sp31KKKMEGnkwkJ7aZuwKJ5nai6VLABu8bpzQ3h0QFOtnESSV+A==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/nativescript-vue-template-compiler/-/nativescript-vue-template-compiler-2.2.0.tgz#65d2365ad94a934e2c465cd07403e05b220a39ff"
+  integrity sha512-U/hfx3DCEdV+CgV/iDTKcHawgf3AktGMXxyFmZ4cUS71Wbc1/pu1sQiieRUcTxVWpgTg0oq5ncun3fvOYkuLYQ==
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
 
-nativescript-vue@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/nativescript-vue/-/nativescript-vue-2.0.2.tgz#0af653a00f9462e336387ae22c8501d29e180069"
-  integrity sha512-X4tSaPorPblbYcU0JQ6AZvim7/7saIgCHHxLJ6Je/N2HfNsjeIROQI+fNsBVxtacrnauPjCugjOLr7KPC/n0eQ==
+nativescript-vue@^2.0.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/nativescript-vue/-/nativescript-vue-2.2.0.tgz#a187a45b98bdf0267aa05529f38899bf92363510"
+  integrity sha512-rRRjMkGL4G82gDOD7RM5ffV0JTb+jEybJ19falG7vMh5OcLvh9R+7HLz+kn/De1Snc91u2mYQVg67wUc8/eTog==
+  dependencies:
+    nativescript-hook "0.2.4"
 
 nativescript-worker-loader@~0.9.0:
   version "0.9.5"
@@ -4499,9 +4501,9 @@ p-try@^1.0.0:
   integrity sha1-y8ec26+P1CKOE/Yh8rGiN8GyB7M=
 
 p-try@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.0.0.tgz#85080bb87c64688fa47996fe8f7dfbe8211760b1"
-  integrity sha512-hMp0onDKIajHfIkdRk3P4CdCmErkYAxxDtP3Wx/4nZ3aGlau2VKh3mZpcuFkH27WQkL/3WBCPOktzA9ZOAnMQQ==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.1.0.tgz#c1a0f1030e97de018bb2c718929d2af59463e505"
+  integrity sha512-H2RyIJ7+A3rjkwKC2l5GGtU4H1vkxKCAGsWasNVd0Set+6i4znxbWy6/j16YDPJDWxhsgZiKAstMEP8wCdSpjA==
 
 pako@~1.0.5:
   version "1.0.10"
